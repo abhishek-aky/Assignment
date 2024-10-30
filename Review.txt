@@ -1,0 +1,18 @@
+I tried my best but due to time boundation i failed to perform as expected i wrote my code but it has some issues.
+I understand that the performance is a key factor for judging the results.
+
+But my reviews for this website are : 
+
+Name os website should be in Left aligned in Navbar 
+Search bar for desktop page in Navbar should be in Right aligned in Navbar.
+We can use Crousel for Offers or discount or any schemes.
+Strengthen product pages: Use larger product images, more engaging descriptions, and personalized related product suggestions.
+We can add Customer reviews and Wishlist of products.
+Navigation bar can become cluttered on smaller screens. Consider using a hamburger menu.
+The product description might be too long on mobile.
+We used a video using iframe tag that is resource heavy i.e. it will slow the speed of website. for this we can using moving crousel. 
+
+       In Home Page
+We are promoting No Gender Barrrier but there is no review or blog written by Men. It may Contradict our policy.
+When we go any other page then an extraa navigation bar is appears which shows the path or in which page we are but is also visible in URL so may be we don't need this.
+In our websites we can use Indian Models Ad like Glow and Lovely , Nykaa, Lakme so will increase the reliability and Vocal for Local message.

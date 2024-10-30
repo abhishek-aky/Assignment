@@ -1,0 +1,127 @@
+
+
+/* General styles */
+body {
+    background-image: url("https://lh3.googleusercontent.com/gg/ACM6BItXcligIoxx2Jua5RnZchZC8mQAayhi6WQbBcJ4_BFnDyvZX86Mf1r-gvw-UZRi0OVlZU_-B8KoUZoIuip1fymV6FlrLehhJNvywVVZfnjZRp2MoR2RNQFbElGgrWNdwXlU6_ug_lxkzZsDs-RLr_G7bYgf8VnNimKWFQ27MtkhktErQBev");
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* Hero section styles */
+.hero {
+    background-image: url('hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    flex: 1;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+.nav-links li {
+    margin-right: 20px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Product categories styles */
+.product-categories {
+    padding: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.category {
+    text-align: center;
+}
+
+/* Product highlight styles */
+.product-highlight {
+    padding: 40px;
+    text-align: center;
+}
+
+/* About us styles */
+.about-us {
+    padding: 40px;
+    text-align: center;
+}
+
+/* Footer styles */
+footer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+.carousel {
+    position: relative;
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+}
+.carousel-inner {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+.carousel-item {
+    flex: 0 0 100%;
+}
+
+.prev-btn, .next-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.prev-btn {
+    left: 0;
+}
+
+.next-btn {
+    right: 0;
+}
+
+
